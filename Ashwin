@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>mech</title>
+  <style>
+    body{
+      font-family: Arial;
+      margin:40px;
+      background:#f5f5f5;
+    }
+
+    h1{
+      color:#0066ff;
+      font-size:60px;
+    }
+
+    .box{
+      background:white;
+      padding:20px;
+      margin:20px 0;
+      border-radius:15px;
+      font-size:25px;
+      font-weight:bold;
+      box-shadow:0 2px 10px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>mech</h1>
+
+<div class="box">01 Celsius to Fahrenheit Conversion</div>
+<div class="box">02 Quadratic Equation Roots</div>
+<div class="box">03 Prime Number Check</div>
+<div class="box">04 Linear Search in Array</div>
+
+</body>
+</html>
